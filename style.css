@@ -14,16 +14,19 @@ header{
 img{
     width: 40%;
 }
-
-.imagen{
-    width: 50%;
-    margin: 20px;
+.animales{
+    background-color: rgb(50, 50, 50);
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid rgb(255, 107, 0);
 }
+
+
 
 .img{
     background-color: rgb(255, 2, 2);
     margin: 10%;
-    padding: 10%;
+    padding: 10px;
     border: 2%;
 }
 
@@ -40,30 +43,25 @@ main a{
     text-decoration: none;
 }
 
-main a:hover{
-    color: rgb(255, 107, 0);
-}
 
 h2{
-    color: rgb(255, 107, 0);
+    color: rgb(245, 244, 244);
 }
 
 h3{
     color: aliceblue;
 }
 
-hr{
-    border: none;
-    height: 2px;
-    background-color: rgb(255, 107, 0);
-}
 
-.card{
+.marco{
     background-color: rgb(50, 50, 50);
-    padding: 15px;
+    padding: 10px;
     margin: 10px;
     border: 2px solid rgb(255, 107, 0);
+    width: 80%;
+    margin: 0 auto;  
 }
+
 
 .redes{
     margin-top: 20px;
