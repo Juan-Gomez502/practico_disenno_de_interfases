@@ -1,13 +1,6 @@
 body{
     background-color: grey;
     color: aliceblue;
-}
-
-main{
-    text-align: center;
-}
-
-header{
     text-align: center;
 }
 
@@ -39,11 +32,11 @@ h3{
 
 
 .marco{
+    text-align:center;
     background-color: rgb(50, 50, 50);
     padding: 10px;
     border: 2px solid rgb(255, 107, 0);
-    width: 80%;
-    margin-left: 10%;
+    width: 10%;
 
 }
 
