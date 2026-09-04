@@ -11,5 +11,5 @@ input.addEventListener('input', function() {
     
     especies.forEach(e => e.style.display = 'none');
 
-    elementos_filtados.forEach(e => e.style.display = 'block');
+    elementos_filtrados.forEach(e => e.style.display = 'block');
 });
